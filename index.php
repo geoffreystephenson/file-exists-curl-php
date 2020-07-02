@@ -7,3 +7,4 @@ curl_close($ch);
 
 // $retcode = 200 = found
 // $retcode > 400 = not found
+// $size = file size in bytes
